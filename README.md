@@ -54,10 +54,11 @@ We followed the Medallion Architecture:
 ## 📂 Folder Structure
 
 ecommerce-data-engineering/
-├── bronze/ # Ingestion layer
-├── silver/ # Cleaned and transformed data
-├── gold/ # Aggregated data for BI
-├── README.md # Project description
+├── bronze/       # Ingestion layer
+├── silver/       # Cleaned and transformed data
+├── gold/         # Aggregated data for BI
+├── README.md     # Project description
+
 
 
 > ⚠️ **Note**: This is a simulated project. No confidential code or real client data is used.
