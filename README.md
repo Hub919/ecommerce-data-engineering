@@ -62,8 +62,5 @@ ecommerce-data-engineering/
 
 > ⚠️ **Note**: This is a simulated project. No confidential code or real client data is used.
 
----
 
-## 📈 Coming Soon
-Sample ADF JSON, PySpark scripts, and fake datasets to help you run the project yourself.
 
