@@ -53,7 +53,7 @@ We followed the Medallion Architecture:
 
 ## 📂 Folder Structure
 
-ecommerce-data-engineering/
+ecommerce-data-engineering/ 
 ├── bronze/       # Ingestion layer
 ├── silver/       # Cleaned and transformed data
 ├── gold/         # Aggregated data for BI
