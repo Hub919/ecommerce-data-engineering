@@ -1,3 +1,8 @@
+"""
+This PySpark script reads raw customer data from the Bronze Layer,
+cleans and transforms it (removes duplicates, trims strings, filters nulls),
+and writes the cleaned data to the Silver Layer in Delta format.
+"""
 # PySpark Script: Clean and Transform Customer Data
 
 from pyspark.sql import SparkSession
